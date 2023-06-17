@@ -1,0 +1,206 @@
+.page {
+  font-family: Roboto, sans-serif;
+}
+/*Reset*/
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+/*header stiles*/
+.header {
+}
+.header-nav {
+}
+.header-webstudio {
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #2e2f42;
+}
+.header-webstudio-web {
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+}
+
+.header-list {
+}
+.header-item {
+}
+
+.header-link {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.header-link:hover {
+  color: #404bbf;
+}
+
+.header-networks {
+}
+.header-networks-item {
+}
+.header-networks-link {
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.header-networks-link:hover {
+  color: #404bbf;
+}
+/*hero styles*/
+.hero-section {
+  background-color: #2e2f42;
+}
+.hero-tytle {
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.hero-btn {
+  background: #4d5ae5;
+  color: white;
+}
+.hero-btn:hover {
+  background: #404bbf;
+}
+/*main styles*/
+.main-section {
+}
+.main-advantages {
+}
+.main-advantages-strategy {
+}
+.main-strategy {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.main-strategy-description {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/*MAIN portfolio*/
+.main-portfolio-section {
+}
+.main-portfolio-button {
+}
+.main-button-all {
+  background: #f4f4fd;
+  font-family: "Roboto";
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+}
+.main-button-all:hover {
+  background: #404bbf;
+  font-family: "Roboto";
+
+  font-weight: 500;
+
+  line-height: 1.5;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+
+  color: #ffffff;
+}
+.main-button {
+}
+
+/*photo stiles*/
+.photo-section {
+}
+.photo-services {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.photo-monitor {
+}
+.photo-tel1 {
+}
+.photo-tel2 {
+}
+.photo-section-team {
+  background: #f4f4fd;
+}
+.photo-team {
+  background: #ffffff;
+}
+.photo-face {
+}
+.photo-people {
+}
+.photo-people-woorking {
+}
+/*PHOTO PORTFOLIO*/
+.photo-my-section {
+}
+.photo-my {
+}
+.photo-my-monitor {
+}
+.photo-images-section {
+}
+.photo-images-my {
+}
+.photo-images-woorking {
+}
+.photo-woorking {
+}
+.photo-website {
+}
+.photo-website-woorking {
+}
+.photo-website-instagram {
+}
+.photo-instagram {
+}
+/*Footer styles*/
+.footer-section {
+  background: #2e2f42;
+}
+.footer-webstudio {
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #f4f4fd;
+}
+.footer-webstudio-web {
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17px;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+}
+.footer-description {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}

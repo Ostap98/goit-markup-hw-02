@@ -1,8 +1,10 @@
+.root {
+}
 .link {
   text-decoration: none;
 }
 .page {
-  font-family: Roboto, sans-serif;
+  font-family: Roboto;
   color: #434455;
   background-color: #ffffff;
 }
@@ -22,7 +24,7 @@ a {
 }
 
 .header-webstudio {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -189,7 +191,7 @@ a {
   background: #2e2f42;
 }
 .footer-webstudio {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -198,7 +200,7 @@ a {
   text-transform: uppercase;
 }
 .footer-webstudio-web {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17px;

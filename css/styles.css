@@ -23,7 +23,7 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #2e2f42;
+  color: #4d5ae5;
   text-transform: uppercase;
 }
 .header-webstudio-web {
@@ -32,7 +32,7 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #4d5ae5;
+  color: #2e2f42;
   text-transform: uppercase;
 }
 .header-list {
@@ -190,7 +190,7 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #f4f4fd;
+  color: #4d5ae5;
   text-transform: uppercase;
 }
 .footer-webstudio-web {
@@ -199,7 +199,7 @@ a {
   font-size: 18px;
   line-height: 1.17px;
   letter-spacing: 0.03em;
-  color: #4d5ae5;
+  color: #f4f4fd;
   text-transform: uppercase;
 }
 .footer-description {
